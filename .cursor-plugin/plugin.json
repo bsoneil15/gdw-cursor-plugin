@@ -1,0 +1,10 @@
+{
+  "name": "game-day-weather",
+  "version": "1.0.0",
+  "description": "Read-only NFL kickoff weather calls (CLEAR, WATCH, FLAG, DOME) for every game in the active week.",
+  "author": { "name": "Game Day Weather", "email": "boneil@mail.grokbot.com" },
+  "homepage": "https://gamedayweather.app",
+  "repository": "https://github.com/bsoneil15/gdw-cursor-plugin",
+  "keywords": ["nfl", "weather", "football", "fantasy", "mcp"],
+  "logo": "assets/logo.svg"
+}

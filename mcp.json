@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "game-day-weather": { "url": "https://gamedayweather.app/mcp" }
+  }
+}
